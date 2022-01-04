@@ -9,6 +9,14 @@ Telegram: @aituarmu
 ### About myself:
 I study in RS-School to become a Front-End Developer.
 
+ ### Work Experience 
+Content-manager currently, work actively with HTML, CSS.
+
+
+### Education:
+ *International IT University,* Almaty, Kazakhstan
+  Major: IT-Management
+  
 ### Code examples
 
  ```
@@ -21,13 +29,8 @@ I study in RS-School to become a Front-End Developer.
   </head>
  ```
 
- ### Work Experience 
-Content-manager
 
 
-### Education:
- *International IT University,* Almaty, Kazakhstan
-  Major: IT-Management
 
 ### Skills
 * HTML
