@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aituarmu.github.io/rsschool-cv/
