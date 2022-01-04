@@ -5,6 +5,7 @@
 E-mail: aituar.adalbayev@gmail.com
 Phone: +77774013989
 Telegram: @aituarmu
+Discord: aituarmu(@aituarmu)
 
 ### About myself:
 I study in RS-School to become a Front-End Developer.
@@ -16,7 +17,7 @@ Content-manager currently, work actively with HTML, CSS.
 ### Education:
  *International IT University,* Almaty, Kazakhstan
   Major: IT-Management
-  
+
 ### Code examples
 
  ```
@@ -28,8 +29,6 @@ Content-manager currently, work actively with HTML, CSS.
     <link rel="stylesheet" href="style.css">
   </head>
  ```
-
-
 
 
 ### Skills
