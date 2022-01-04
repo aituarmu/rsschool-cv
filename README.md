@@ -1,2 +1,1 @@
-# rsschool-cv
-## cv task in RS-School
+https://aituarmu.github.io/rsschool-cv/cv
